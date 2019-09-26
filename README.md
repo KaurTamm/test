@@ -1,4 +1,4 @@
-# test01
+# **test01**
 
 # BIGGEST
 ## BIGGER
@@ -6,3 +6,9 @@
 #### small
 ##### smaller
 ###### smallest
+
+**bold**
+*italic*
+~~strikethrough~~
+**bold and nested *italic***
+***all bold and italic***
